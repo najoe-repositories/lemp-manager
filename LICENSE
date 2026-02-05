@@ -1,5 +1,6 @@
-Mozilla Public License Version 2.0
-==================================
+Mozilla Public License Version 2.0 (Modified to Najoe Version)
+==============================================
+With Additional Open Source Community & Tax Compliance Clauses
 
 1. Definitions
 --------------
@@ -82,6 +83,19 @@ Mozilla Public License Version 2.0
     whether by contract or otherwise, or (b) ownership of more than
     fifty percent (50%) of the outstanding shares or beneficial
     ownership of such entity.
+
+1.15. "Commercial Revenue"
+    means any monetary gain, profit, income, or financial benefit
+    derived directly or indirectly from the use, distribution, sale,
+    licensing, or exploitation of the Covered Software, including but
+    not limited to subscription fees, service charges, consulting fees,
+    advertising revenue, or any other form of compensation.
+
+1.16. "Good Faith Use"
+    means the use, modification, and distribution of Covered Software
+    in a manner that respects the spirit of open source collaboration,
+    community standards, and the ongoing maintenance efforts of
+    Contributors.
 
 2. License Grants and Conditions
 --------------------------------
@@ -216,6 +230,74 @@ indemnity or liability terms You offer. You may include additional
 disclaimers of warranty and limitations of liability specific to any
 jurisdiction.
 
+************************************************************************
+*                                                                      *
+*  3.6. Tax Compliance on Commercial Revenue                           *
+*  -----------------------------------------                           *
+*                                                                      *
+*  If You or any entity derives Commercial Revenue from the Covered    *
+*  Software, whether through direct sales, services, subscriptions,    *
+*  or any other monetization method, You acknowledge and agree that:   *
+*                                                                      *
+*  (a) All applicable taxes, duties, levies, and governmental charges  *
+*      imposed by any jurisdiction shall be Your sole responsibility;  *
+*                                                                      *
+*  (b) You shall comply with all tax laws and regulations applicable   *
+*      to Commercial Revenue derived from the Covered Software in      *
+*      Your jurisdiction and any jurisdiction where You operate;       *
+*                                                                      *
+*  (c) The government(s) of applicable jurisdiction(s) shall be        *
+*      entitled to collect taxes directly on any Commercial Revenue    *
+*      generated from the use, distribution, or exploitation of the    *
+*      Covered Software, as prescribed by law;                         *
+*                                                                      *
+*  (d) Neither the initial Contributor nor any subsequent Contributor  *
+*      shall be liable for Your failure to comply with tax obligations *
+*      arising from Your Commercial Revenue;                           *
+*                                                                      *
+*  (e) This clause does not create any tax obligation beyond what is   *
+*      already required by applicable law, but serves as an explicit   *
+*      acknowledgment that open source software usage does not exempt  *
+*      You from lawful tax obligations on derived revenue.             *
+*                                                                      *
+************************************************************************
+
+************************************************************************
+*                                                                      *
+*  3.7. Open Source Community Covenant                                 *
+*  -----------------------------------                                 *
+*                                                                      *
+*  This Software is Open Source. By using, modifying, or distributing  *
+*  the Covered Software, You agree to uphold the following principles: *
+*                                                                      *
+*  (a) MUTUAL RESPECT: Treat this software, its Contributors, and the  *
+*      open source community with respect and good faith. The spirit   *
+*      of open source is built on collaboration, not exploitation;     *
+*                                                                      *
+*  (b) COMMUNITY COMMITMENT: If You treat this project nicely—through  *
+*      constructive feedback, bug reports, documentation improvements, *
+*      respectful discourse, or contributions—the maintainer(s) commit *
+*      to maintaining and improving this software to the best of their *
+*      ability and available resources;                                *
+*                                                                      *
+*  (c) GOOD FAITH USAGE: Use the Covered Software in a manner that     *
+*      does not intentionally harm, mislead, or exploit end users,     *
+*      other developers, or the broader community;                     *
+*                                                                      *
+*  (d) ATTRIBUTION APPRECIATION: While not legally required beyond     *
+*      the notice requirements of this License, acknowledgment of the  *
+*      original Contributors in derivative works is encouraged and     *
+*      appreciated as a gesture of good faith;                         *
+*                                                                      *
+*  (e) NO GUARANTEE OF MAINTENANCE: This covenant represents the       *
+*      maintainer's intention, not a contractual obligation. Continued *
+*      maintenance depends on available time, resources, and the       *
+*      health of the community relationship.                           *
+*                                                                      *
+*  In essence: You treat it nicely, and we will maintain it nicely.    *
+*                                                                      *
+************************************************************************
+
 4. Inability to Comply Due to Statute or Regulation
 ---------------------------------------------------
 
@@ -325,10 +407,12 @@ shall not be used to construe this License against a Contributor.
 
 10.1. New Versions
 
-Mozilla Foundation is the license steward. Except as provided in Section
-10.3, no one other than the license steward has the right to modify or
-publish new versions of this License. Each version will be given a
-distinguishing version number.
+Mozilla Foundation is the license steward for the original MPL 2.0.
+This modified version includes additional clauses (Sections 3.6 and 3.7)
+added by the initial Contributor of this specific Covered Software.
+Except as provided in Section 10.3, no one other than the license
+steward has the right to modify or publish new versions of the base
+License. Each version will be given a distinguishing version number.
 
 10.2. Effect of New Versions
 
@@ -356,8 +440,14 @@ Exhibit A - Source Code Form License Notice
 -------------------------------------------
 
   This Source Code Form is subject to the terms of the Mozilla Public
-  License, v. 2.0. If a copy of the MPL was not distributed with this
-  file, You can obtain one at http://mozilla.org/MPL/2.0/.
+  License, v. 2.0 (Modified), with additional Tax Compliance and Open
+  Source Community Covenant clauses. If a copy of the MPL was not
+  distributed with this file, You can obtain the original MPL at
+  http://mozilla.org/MPL/2.0/.
+
+  Additional Terms: This software includes Sections 3.6 (Tax Compliance
+  on Commercial Revenue) and 3.7 (Open Source Community Covenant). By
+  using this software, You agree to these additional terms.
 
 If it is not possible or desirable to put the notice in a particular
 file, then You may include the notice in a location (such as a LICENSE
@@ -371,3 +461,35 @@ Exhibit B - "Incompatible With Secondary Licenses" Notice
 
   This Source Code Form is "Incompatible With Secondary Licenses", as
   defined by the Mozilla Public License, v. 2.0.
+
+Exhibit C - Open Source Community Covenant Notice
+-------------------------------------------------
+
+  This project operates under the Open Source Community Covenant
+  (Section 3.7): "You treat it nicely, and we will maintain it nicely."
+
+  We believe in the collaborative spirit of open source. Your respectful
+  engagement with this project—through constructive feedback, responsible
+  usage, and community participation—directly influences our commitment
+  to its continued development and maintenance.
+
+  Thank you for being part of the open source community.
+
+========================================================================
+                        END OF LICENSE TERMS
+========================================================================
+
+SUMMARY OF MODIFICATIONS TO MPL 2.0:
+------------------------------------
+This license is based on the Mozilla Public License Version 2.0 with
+the following additions:
+
+  1. Section 1.15 - Definition of "Commercial Revenue"
+  2. Section 1.16 - Definition of "Good Faith Use"
+  3. Section 3.6  - Tax Compliance on Commercial Revenue
+  4. Section 3.7  - Open Source Community Covenant
+  5. Exhibit C    - Open Source Community Covenant Notice
+
+These modifications do not alter the core permissions, conditions, or
+limitations of the original MPL 2.0, but add explicit acknowledgments
+regarding tax obligations and community expectations.
